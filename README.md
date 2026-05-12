@@ -1,4 +1,4 @@
-# TTB Test Automation Q2-Q3
+# Playwright API Automation – Reqres
 
 Automated test scripts using Playwright + TypeScript for web application testing.
 
